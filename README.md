@@ -3,8 +3,6 @@
 <h1 align="center"> Hi there 👋, I'm Dinesh Kumar  </h1>
 <h3 align="center">Student</h3>
 
-<!--
-**Dineshk04/Dineshk04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
