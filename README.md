@@ -1,4 +1,4 @@
-![](ai1.jpg)
+![](ai.jpg)
 
 <h1 align="center"> Hi there 👋, I'm Dinesh Kumar  </h1>
 <h3 align="center">Student</h3>
